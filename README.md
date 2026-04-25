@@ -54,8 +54,8 @@ Mobile View - News Listing Page
   5. Set public read permissions
     a. Go to Settings → Roles → Public
     b. Create a policy that grants Read access to: categories, news, pages, homepage, directus_files
-    
-    ![alt text](image-5.png)
+
+![alt text](image-5.png)
 
   6. Start the Next.js app
 
