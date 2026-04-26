@@ -41,10 +41,10 @@ Mobile View - News Listing Page
   - Password: admin123
 
   4. Import the CMS schema
-    a. In Directus, go to Settings → Data Model
-    b. Click the Import Schema button (top right)
-    c. Upload schema-snapshot.json from the project root
-    d. Click Yes, run it
+  a. In Directus, go to Settings → Data Model
+  b. Click the Import Schema button (top right)
+  c. Upload schema-snapshot.json from the project root
+  d. Click Yes, run it
 
   This creates all collections (news, categories, pages, homepage) automatically.
 
@@ -52,8 +52,8 @@ Mobile View - News Listing Page
   ▎ data.
 
   5. Set public read permissions
-    a. Go to Settings → Roles → Public
-    b. Create a policy that grants Read access to: categories, news, pages, homepage, directus_files
+  a. Go to Settings → Roles → Public
+  b. Create a policy that grants Read access to: categories, news, pages, homepage, directus_files
 
 ![alt text](image-5.png)
 
